@@ -1,0 +1,15 @@
+.jumbotron {
+background-color: brown;
+color: white;
+}
+
+body {
+background: lightgrey;
+
+}
+
+.row {
+display: flex;
+justify-content: center;
+}
+
